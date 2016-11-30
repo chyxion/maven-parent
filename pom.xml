@@ -32,6 +32,7 @@
 
 	<properties>
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
         <javadoc.plugin.version>2.10.3</javadoc.plugin.version>
         <javadoc.version>5</javadoc.version>
         <gpg.plugin.version>1.6</gpg.plugin.version>
